@@ -2,3 +2,4 @@ ng-app/dist
 ng-app/node_modules
 netcore-api/obj
 netcore-api/bin
+netcore-api/dist
